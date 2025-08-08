@@ -1,14 +1,12 @@
 <h1 align="center">👋 Olá, eu sou Edson Barros Ponciúncula</h1>
 
----
-
 ## 🌱 Formação  
 - 🎓 **Técnico em Informática** - IFAL
 - 💻 Graduando em **Ciência da Computação** - UFAL
 
 ---
 
-- 📌 Foco atual em **Desenvolvimento de Aplicações Web**, **Inteligência Artificial** e **Redes de Computadores**  
+- 📌 Foco atual em **Inteligência Artificial**, **Desenvolvimento Web** e **Machine Learning**  
 ---
 
 ## 🚀 Habilidades & Tecnologias  
@@ -39,7 +37,6 @@
   <a href="https://www.linkedin.com/in/edson-ponci%C3%BAncula-27007b228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
----
 
 <div align="center">
   💡 <i>"Sua Solução Tecnológica Começa Aqui."</i>
