@@ -9,6 +9,7 @@
 <div align="center" style="display: inline_block"><br>
   <img alt="Python" style="margin: 0px 15px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img alt="Django"  style="margin: 0px 15px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img alt="Git" style="margin: 0px 15px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img alt="JavaScript"  style="margin: 0px 15px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="HTML5"  style="margin: 0px 15px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3"  style="margin: 0px 15px" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
