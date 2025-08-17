@@ -1,5 +1,12 @@
 <h1 align="center">👋 Olá, eu sou Edson Barros Ponciúncula</h1>
 
+<p align="center">
+  <a href="https://github.com/EdsonBPBR">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdsonBPBR&show_icons=true&theme=dark&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonBPBR&layout=compact&langs_count=16&theme=dark"/>
+  </a>
+</p>
+
 ## 🌱 Formação | Training
 - 🎓 **Técnico em Informática** - IFAL | **Computer Technician**
 - 💻 Graduando em **Ciência da Computação** - UFAL | Graduating in **Computer Science** 
